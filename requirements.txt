@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/cu121
+torch
+torchvision
+numpy>=1.19.2,<1.22.0
+matplotlib>=3.4.2,<3.5.0
+pillow>=8.3.1,<8.4.0
